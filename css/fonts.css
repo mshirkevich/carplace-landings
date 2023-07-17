@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Roboto:100,300,400,500,700,900&display=swap&subset=cyrillic');
+@font-face {
+    font-family: 'GardensC';
+    src: url('fonts/GardensC.eot');
+    src: url('fonts/GardensC.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GardensC.woff2') format('woff2'),
+        url('fonts/GardensC.woff') format('woff'),
+        url('fonts/GardensC.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
